@@ -36,7 +36,6 @@ public class SymmetricTree{
     public static void main(String[] args) {
         Solution solution = new SymmetricTree().new Solution();
 
-        solution.isSymmetric(solution);
     }
     
     //leetcode submit region begin(Prohibit modification and deletion)
